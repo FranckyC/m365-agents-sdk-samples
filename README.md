@@ -1,2 +1,3 @@
-# m365-agents-sdk-samples
-Samples for the Microsoft 365 Agents SDK
+# Microsoft 365 Agents SDK samples
+
+Various samples leveraging the Microsoft 365 Agents SDK
